@@ -35,3 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### LOGGING ###
+logs/
+
+### RANDOM ###
+.DS_STORE
